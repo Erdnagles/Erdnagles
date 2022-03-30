@@ -1,5 +1,4 @@
 ![gif from giphy](https://media1.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=790b7611b17062443f57bb2d3b6eeb0aeb88a3924812a4b1&rid=giphy.gif&ct=g)
-                                                                                                                                       )
 ### Hello there, I'm Andre 👋 
 
 ## A Student
@@ -13,7 +12,7 @@
 
 
 
-### Languages and Tools:
+### Languages and Tools im focusing on:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
