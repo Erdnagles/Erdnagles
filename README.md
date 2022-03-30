@@ -25,7 +25,7 @@ Write to me via <a href="mailto:erdnagles@gmail.com">Email <img src="https://cam
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+### <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Erdnagles' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Erdnagles&show_icons=true&hide_border=false&theme=merko&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
