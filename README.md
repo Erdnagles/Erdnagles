@@ -1,6 +1,8 @@
-### Hi there, I'm Andre 👋 
+![](https://giphy.com/embed/Nx0rz3jtxtEre" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre"
+                                                                                                                                       )
+### Hello there, I'm Andre 👋 
 
-## Currently a Student
+## A Student
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Getting decent in a programming language
