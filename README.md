@@ -1,4 +1,4 @@
-![](https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre)
+![gif from giphy](https://media1.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=790b7611b17062443f57bb2d3b6eeb0aeb88a3924812a4b1&rid=giphy.gif&ct=g)
                                                                                                                                        )
 ### Hello there, I'm Andre 👋 
 
