@@ -7,6 +7,9 @@
 - 🥅 2022 Goals: Getting decent in a programming language
 - ⚡ Fun fact: I love running, discgolf and board games.
 
+### First portfolio webpage attempt:
+
+You can click <a href="https://andreiscool.surge.sh/">here</a></h4>
 
 ### Connect?
 
