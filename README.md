@@ -9,7 +9,7 @@
 
 ### First portfolio webpage attempt:
 
-You can click <a href="https://andreiscool.surge.sh/">here</a></h4>
+If you want to take a look click <a href="https://andreiscool.surge.sh/">here</a></h4>
 
 ### Connect?
 
